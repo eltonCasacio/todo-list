@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 0 22rem;
+  margin-top: calc(0px - 1.6rem);
+}
+
+.todoList {
+  margin-top: 4rem;
+}
